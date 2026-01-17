@@ -1,7 +1,6 @@
 import os
 import re
 
-# 🔹 CHANGE THIS PATH to your image folder path
 FOLDER_PATH = r"C:\Users\WIN 10\Downloads\Larynx-20251222T204034Z-1-001\Larynx\Main"
 
 START = 1
