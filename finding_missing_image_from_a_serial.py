@@ -28,7 +28,7 @@ print("Missing image numbers:\n")
 prev = None
 for num in missing_numbers:
     if prev is not None and num != prev + 1:
-        print()   # 🔹 blank line where serial breaks
+        print()   
     print(num)
     prev = num
 
